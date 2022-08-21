@@ -1,0 +1,8 @@
+{
+   
+    "python.pythonPath" : "C:\\ProgramData\\Anaconda3\\envs\\node2py\\python.exe",
+
+    "python.terminal.activateEnvironment": true,
+
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
