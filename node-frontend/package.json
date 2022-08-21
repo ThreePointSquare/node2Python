@@ -1,0 +1,19 @@
+{
+  "name": "node2py-frontend",
+  "version": "1.0.0",
+  "description": "Frontend For Cmminucating with python lidstener",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThreePointSquare/node2py-server.git"
+  },
+  "author": "Craig Forneris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThreePointSquare/node2py-server/issues"
+  },
+  "homepage": "https://github.com/ThreePointSquare/node2py-server#readme"
+}
